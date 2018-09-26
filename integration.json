@@ -1,0 +1,1 @@
+{"name":"logstash-integration-jms","plugins":["logstash-input-jms","logstash-output-jms"]}
