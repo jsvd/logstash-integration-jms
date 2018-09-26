@@ -1,6 +1,6 @@
 # Logstash Plugin
 
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-jms.svg)](https://travis-ci.org/logstash-plugins/logstash-output-jms)
+[![Travis Build Status](https://travis-ci.org/jsvd/logstash-integration-jms.svg)](https://travis-ci.org/jsvd/logstash-integration-jms)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
@@ -15,7 +15,7 @@ Logstash provides infrastructure to automatically generate documentation for thi
 
 ## Need Help?
 
-Need help? Try #logstash on freenode IRC or the logstash-users@googlegroups.com mailing list.
+Need help? Try #logstash on freenode IRC or the https://discuss.elastic.co/c/logstash discussion forum.
 
 ## Developing
 
